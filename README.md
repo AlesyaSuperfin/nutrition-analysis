@@ -5,4 +5,4 @@
 
 [Link for the application](https://alesya-superfin-online-clothing-store.netlify.app/)
 
-![Product Name Screen Shot](https://github.com/AlesyaSuperfin/online-clothing-store/blob/main/online_clothing_store.jpg)
+![Product Name Screen Shot](https://github.com/AlesyaSuperfin/nutrition-analysis/blob/main/src/nutrition_analysis.jpg)
